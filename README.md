@@ -1,5 +1,3 @@
-## ✅ `README.md`
-
 # 🧠 PDF Q&A Chatbot with Ollama
 
 This is a lightweight Flask-based web application that allows users to upload a PDF and ask questions about its content. It uses a locally hosted LLM (e.g., LLaMA 3 via Ollama) to generate answers, simulating a Retrieval-Augmented Generation (RAG)-like system.
@@ -79,6 +77,7 @@ ollama-pdf-qa/
 │   └── styles.css
 ├── README.md
 ├── .gitignore
+├── requirements.txt
 ```
 
 ---
