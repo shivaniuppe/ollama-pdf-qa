@@ -1,0 +1,22 @@
+```gitignore
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Virtualenv
+venv/
+
+# Uploaded files
+uploads/
+
+# Environment config
+.env
+
+# System files
+.DS_Store
+*.log
+
+# VSCode settings (optional)
+.vscode/
